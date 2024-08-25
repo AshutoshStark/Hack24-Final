@@ -15,11 +15,13 @@ HOW TO START:-
 - start moving the player towards the section and enjoy the learning.
 
 
-## Other Links
+## Our other Repo used in this Project
 - [chat Bot Link](https://github.com/AshutoshStark/ChatBot.git)
 - [Web Room](https://github.com/AshutoshStark/scholar-sphere-front-end.git)
 - [AI/ML Room](https://github.com/AshutoshStark/hack-ai.git)
 - [Web3 Room](https://github.com/AshutoshStark/hack-web.git)
+
+## Project Report / Synopsis
 - [Project File Link](https://drive.google.com/file/d/1VofO2A9cCtImbhJoJaz0usUISxHgPnH6/view?usp=sharing)
 
 
