@@ -4,14 +4,16 @@ S LEARN: A Comprehensive Game App for Enhancing Learning and Social Integration 
 
 Drive Link for the game:-
 
-   [Click to downlaod the Game](https://drive.google.com/file/d/1J6Irq8Ifz2c3iP_whsom8SNouFggDNiW/view?usp=sharing)
+   [Click to download the Game](https://drive.google.com/file/d/1J6Irq8Ifz2c3iP_whsom8SNouFggDNiW/view?usp=sharing)
+
+## [Video Link](https://drive.google.com/file/d/1JKM0jLnxp0VbGSnfeesOShVy3Ju45PCt/view?usp=sharing)
 
 HOW TO START:-
 
-- Download the application form the drive link named NS LEARN. (Must have the strong internet connection)
-- After downlaod the application, start the application and click  on the start button.
+- Download the application from the drive link named NS LEARN. (Must have a strong internet connection)
+- After downloading the application, start the application and click  on the start button.
 - Click on the room button (stark world).
-- Than click on blue connect button.
+- Then click on the blue connect button.
 - start moving the player towards the section and enjoy the learning.
 
 
@@ -21,11 +23,11 @@ HOW TO START:-
 - [AI/ML Room](https://github.com/AshutoshStark/hack-ai.git)
 - [Web3 Room](https://github.com/AshutoshStark/hack-web.git)
 
-## Project Report / Synopsis
+## Project Report / Synopsis and PPT
 - [Project File Link](https://drive.google.com/file/d/1VofO2A9cCtImbhJoJaz0usUISxHgPnH6/view?usp=sharing)
+- [PowerPoint Presentation](https://www.canva.com/design/DAGOw2nHEdw/vUMzV2uVhQuu5otgpSXxYg/edit?utm_content=DAGOw2nHEdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
-## Game Over view
+## Game Overview
 
 - NS LEARN is an innovative game app that supports neurodiverse children by creating an engaging, inclusive, and supportive virtual learning environment. The app integrates educational gameplay with social interaction tools, including chat and chatbot features, and a digital library for academic support.
 
@@ -58,7 +60,7 @@ HOW TO START:-
 - Coherence 
 
 ## Future Updates 
-- More learning and interative features will be added in future.
+- More learning and interactive features will be added in the future.
 - Integration with Professional Support
 - Creating a Virtual World
 
