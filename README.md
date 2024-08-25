@@ -7,7 +7,7 @@ Drive Link for the game:-
    [Click to download the Game](https://drive.google.com/file/d/1J6Irq8Ifz2c3iP_whsom8SNouFggDNiW/view?usp=sharing)
 ## Video Link
 
-- [Click to watch Video](https://drive.google.com/file/d/1JKM0jLnxp0VbGSnfeesOShVy3Ju45PCt/view?usp=sharing)
+- ![Click to watch Video](https://drive.google.com/file/d/1JKM0jLnxp0VbGSnfeesOShVy3Ju45PCt/view?usp=sharing)
 
 HOW TO START:-
 
