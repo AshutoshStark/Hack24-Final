@@ -25,7 +25,7 @@ HOW TO START:-
 - [Web3 Room](https://github.com/AshutoshStark/hack-web.git)
 
 ## Project Report / Synopsis and PPT
-- [Project File Link](https://drive.google.com/file/d/1VofO2A9cCtImbhJoJaz0usUISxHgPnH6/view?usp=sharing)
+- [Project Synopsis Link](https://drive.google.com/file/d/1VofO2A9cCtImbhJoJaz0usUISxHgPnH6/view?usp=sharing)
 - [PowerPoint Presentation](https://www.canva.com/design/DAGOw2nHEdw/vUMzV2uVhQuu5otgpSXxYg/edit?utm_content=DAGOw2nHEdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Game Overview
