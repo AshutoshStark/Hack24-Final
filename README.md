@@ -4,7 +4,7 @@ S LEARN: A Comprehensive Game App for Enhancing Learning and Social Integration 
 
 Drive Link for the game:-
 
-   [Click to download the Game](https://drive.google.com/file/d/1J6Irq8Ifz2c3iP_whsom8SNouFggDNiW/view?usp=sharing)
+   [Click to download the Game](https://drive.google.com/file/d/1I7aSfJbVQXrca-wd0odhDDZoX_obiJ4K/view)
 ## Video Link
 
 - [Click to watch Video](https://drive.google.com/file/d/1uKtPAiemnS0SBrBnFwCHXZb6xP7wiYtW/view?usp=drive_link)
@@ -24,8 +24,10 @@ HOW TO START:-
 - [AI/ML Room](https://github.com/AshutoshStark/hack-ai.git)
 - [Web3 Room](https://github.com/AshutoshStark/hack-web.git)
 
+
+
 ## Project Report / Synopsis and PPT
-- [Project Synopsis Link](https://drive.google.com/file/d/1VofO2A9cCtImbhJoJaz0usUISxHgPnH6/view?usp=sharing)
+- [Project Synopsis Link](https://github.com/user-attachments/files/17528764/Report.1_.Game.Design.and.Benefits.for.Neurodiverse.Individuals.1.pdf)
 - [PowerPoint Presentation](https://www.canva.com/design/DAGOw2nHEdw/vUMzV2uVhQuu5otgpSXxYg/edit?utm_content=DAGOw2nHEdw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Game Overview
@@ -60,6 +62,7 @@ HOW TO START:-
 - C#
 - Coherence
 - OnDemand.io
+- NPC 
 
 ## Future Updates 
 - More learning and interactive features will be added in the future.
