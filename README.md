@@ -48,7 +48,7 @@ HOW TO START:-
 ## Design and Features
 
 - Virtual World and Gameplay
-- Chat and Chatbot Features
+- Chat and Chatbot Features (OnDemand.io)
 - Digital library  
 
 
@@ -58,7 +58,8 @@ HOW TO START:-
 - React js 
 - Python socket io
 - C#
-- Coherence 
+- Coherence
+- OnDemand.io
 
 ## Future Updates 
 - More learning and interactive features will be added in the future.
@@ -66,12 +67,14 @@ HOW TO START:-
 - Creating a Virtual World
 
 ## Screenshots
-  ![ns9](https://github.com/user-attachments/assets/9c478c53-4be2-43bf-9130-a282768e80df)
-![ns8](https://github.com/user-attachments/assets/f657f832-a458-44ee-bc38-702f6a3d886e)
-![ns4](https://github.com/user-attachments/assets/d6403e2b-6686-4636-9994-e0e0282698d5)
-![ns10](https://github.com/user-attachments/assets/558e5b40-a443-40ef-b9b8-df5ecf2edb44)
-![ns2](https://github.com/user-attachments/assets/6bbd66ec-5cd3-4211-a312-d6fefa05f959)
-![ns png](https://github.com/user-attachments/assets/ff1f46bb-d71b-4a83-bc35-9e84b7743ad7)
-
-
-
+ ![IMG-20241026-WA0009](https://github.com/user-attachments/assets/46d3ce8f-5afb-4f0e-a436-d82c7faeefb9)
+![IMG-20241026-WA0012](https://github.com/user-attachments/assets/493eb670-4db9-460a-b814-37f57783523e)
+![IMG-20241026-WA0014](https://github.com/user-attachments/assets/a5189a49-627b-43aa-9680-d5ab786ad1da)
+![IMG-20241026-WA0011](https://github.com/user-attachments/assets/189aee40-afb3-4508-bb92-455ebdb98485)
+![IMG-20241026-WA0013](https://github.com/user-attachments/assets/b4543aba-0a0d-4bb5-9fe1-3925f8aa537b)
+![IMG-20241026-WA0005](https://github.com/user-attachments/assets/203d1892-9aea-4a50-91d5-fd6204be03e2)
+![IMG-20241026-WA0004](https://github.com/user-attachments/assets/35d3ce68-226e-4112-a6b9-b7ef05145621)
+![IMG-20241026-WA0003](https://github.com/user-attachments/assets/467f1fa8-314a-4983-94fc-15306ee77b8c)
+![IMG-20241026-WA0002](https://github.com/user-attachments/assets/0ade43a7-17bf-4a15-81e2-6b762172ce25)
+![IMG-20241026-WA0001](https://github.com/user-attachments/assets/4c6332c0-d135-49c9-a87b-1d0a4f8e8fd1)
+![IMG-20241026-WA0008](https://github.com/user-attachments/assets/9e721ac3-16e1-4c5c-87a7-f2f9d92c5050)
