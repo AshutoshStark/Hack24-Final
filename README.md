@@ -1,6 +1,6 @@
 # NS LEARN
 
-S LEARN: A Comprehensive Game App for Enhancing Learning and Social Integration for Neurodiverse Children
+S LEARN: A Comprehensive META VARSE for Enhancing Learning and Social Integration for Neurodiverse Children
 
 Drive Link for the game:-
 
